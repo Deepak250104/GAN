@@ -18,7 +18,7 @@ Project Structure
 ├── data/                 # Fashion-MNIST dataset (loaded via TensorFlow Datasets)
 ├── models/               # Saved generator and discriminator models
 ├── images/               # Generated fashion images
-├── fashion_gan.py        # Main script for training the GAN
+├── FashionGAN.ipynb      # Main script for training the GAN
 ├── requirements.txt      # Required Python packages
 ├── README.md             # Project documentation
 ```
