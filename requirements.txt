@@ -1,0 +1,11 @@
+numpy>=1.21.0
+
+tensorflow>=2.8.0
+
+tensorflow-datasets>=4.5.0
+
+matplotlib>=3.5.0
+
+ipywidgets>=7.6.0
+
+pillow>=9.0.0
