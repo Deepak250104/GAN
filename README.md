@@ -27,7 +27,7 @@ Project Structure
 
 **Clone the repository:**
 ```bash
-git clone https://github.com/your-username/DeepLearning-GAN-Fashion.git
+git clone https://github.com/Deepak250104/DeepLearning-GAN-Fashion.git
 cd DeepLearning-GAN-Fashion
 ```
 **Install dependencies:**
@@ -54,7 +54,7 @@ python fashion_gan.py
 ```
 Training progress will be saved, and generated images will be stored in the images/ directory.
 
-4. Generate New Fashion Items
+**4. Generate New Fashion Items**
 After training, load the generator model and generate images:
 ```python
 from tensorflow.keras.models import load_model
