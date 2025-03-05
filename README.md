@@ -27,8 +27,8 @@ Project Structure
 
 **Clone the repository:**
 ```bash
-git clone https://github.com/Deepak250104/DeepLearning-GAN-Fashion.git
-cd DeepLearning-GAN-Fashion
+git clone https://github.com/Deepak250104/GAN.git
+cd GAN
 ```
 **Install dependencies:**
 ```bash
