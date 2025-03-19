@@ -15,7 +15,6 @@ The **Deep Learning GAN Fashion Design System** is a Generative Adversarial Netw
 
 Project Structure
 ```
-├── data/                 # Fashion-MNIST dataset (loaded via TensorFlow Datasets)
 ├── models/               # Saved generator and discriminator models
 ├── images/               # Generated fashion images
 ├── FashionGAN.ipynb      # Main script for training the GAN
